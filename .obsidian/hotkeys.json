@@ -1,0 +1,18 @@
+{
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "execute-code:code-execute-open-manage-executors": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
