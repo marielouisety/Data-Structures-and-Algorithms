@@ -15,7 +15,7 @@
 colors { "red", "green", "blue" }
 ```
 
-![[Pasted image 20251028192914.png]]
+<img width="458" height="309" alt="image" src="https://github.com/user-attachments/assets/2f5e537b-b9ee-4c11-9b68-b0135b285630" />
 
 ## *Problem*
 
@@ -32,7 +32,7 @@ colors { "red", "green", "blue" }
 
 ## *Hash( )*
 
-![[Pasted image 20251029170913.png]]
+<img width="638" height="360" alt="image" src="https://github.com/user-attachments/assets/9a7a6199-9512-41c4-92b0-029d234ddeff" />
 
 ## *Hash Context*
 
@@ -62,7 +62,7 @@ int Hash(int num) {
 
 Set A = {20, 47, 22, 5, 65, 72, 6, 91}
 
-![[Pasted image 20251029172146.png]]
+<img width="280" height="490" alt="image" src="https://github.com/user-attachments/assets/9dd12a3b-a02f-4dff-bf2f-11bf778ca693" />
 
 <mark style="background: #5478C2A6;"><font color="white">hash( )</font></mark> - generates a value through % of 10
 <mark style="background: #5478C2A6;"><font color="white">chaining</font></mark>
@@ -72,13 +72,15 @@ Set A = {20, 47, 22, 5, 65, 72, 6, 91}
 
 Other Variations
 
-![[Pasted image 20251029172327.png]]
+<img width="468" height="465" alt="image" src="https://github.com/user-attachments/assets/81b74f92-6560-4b52-b3c5-f8b6f8f05ba3" />
+
 ## *Closed Hashing*
 
 Set A = {20, 47, 22, 5, 65, 72, 6, 91
 
 Dictionary D
-![[Pasted image 20251029172421.png]]
+
+<img width="77" height="461" alt="image" src="https://github.com/user-attachments/assets/fb802b5b-d56f-4849-ba4f-c7357d377f74" />
 
 <mark style="background: #5478C2A6;"><font color="white">hash( )</font></mark> - generates a value through % of 10
 
@@ -94,20 +96,20 @@ Solution
 - the element is placed <mark style="background: #5478C2A6;"><font color="white">in the next available position if collision occurs</font></mark>
 - using concept of <mark style="background: #5478C2A6;"><font color="white">circular arrays</font></mark>
 
-![[Pasted image 20251029173231.png]]
+<img width="595" height="270" alt="image" src="https://github.com/user-attachments/assets/1cb07353-d40b-4ddf-9f82-a1335ad77a30" />
 
 ## *Bucket*
 
 - using a range of indexes to limit space use
 - hash( ) - adjust for the range of the bucket
 
-![[Pasted image 20251029173335.png]]
+<img width="432" height="499" alt="image" src="https://github.com/user-attachments/assets/7c7acd87-d379-430f-a992-7b5366d1f3f2" />
 
 ## *Progressive Overflow*
 
 - dividing the space used into half, one used as the primary storage and the other as the secondary storage
 
-![[Pasted image 20251029173437.png]]
+<img width="396" height="342" alt="image" src="https://github.com/user-attachments/assets/af715a3a-917e-4fe1-82e1-243eb90380cd" />
 
 ```c
 #define MAX 10
@@ -132,11 +134,11 @@ Set A = {20, 43, 22, 5, 65, 72, 6, 28, 91}
 hash(x) == x % MAX;
 ```
 
-![[Pasted image 20251029191429.png]]
+<img width="457" height="409" alt="image" src="https://github.com/user-attachments/assets/f95256dc-6a08-4037-9ec4-811e10d77d70" />
 
-![[Pasted image 20251029191452.png]]
+<img width="442" height="411" alt="image" src="https://github.com/user-attachments/assets/319300b6-11e5-4bc8-a0b5-58c8b2a1330a" />
 
-![[Pasted image 20251029191622.png]]
+<img width="752" height="348" alt="image" src="https://github.com/user-attachments/assets/df217a8e-b64a-4fb9-95ff-56dad96ea87e" />
 
 <mark style="background: #5478C2A6;"><font color="white">Perfect Hash</font></mark>
 - when a hash function returns a unique value
