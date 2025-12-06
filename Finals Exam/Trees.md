@@ -1,1 +1,2 @@
 <mark style="background: #5478C2A6;"><font color="white">Trees</font></mark> are collection of elements known as nodes; connected undirected graph with no loops, o multiple edges, and no simple recruits.
+
