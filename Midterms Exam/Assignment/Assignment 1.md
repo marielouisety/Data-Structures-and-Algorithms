@@ -7,3 +7,28 @@ typedef struct {
 	int RGBval[3];
 } Color;
 ```
+
+```c
+// RGB_hash.c
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define TABLE_SIZE 64
+
+typedef struct {
+	char colorName[50];
+	int RGBval[3]; // R, G, B
+} Color;
+
+typedef struct Node {
+	Color data;
+	struct Node* next;
+} Node;
+
+// Hash Table (array of pointers to linked lists)
+Node* hashTable[TABLE_SIZE];
+
+
+```

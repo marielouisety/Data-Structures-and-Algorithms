@@ -1,4 +1,4 @@
-- <span style="color:#77c5fd">fastest data structure</span>
+ - <span style="color:#77c5fd">fastest data structure</span>
 - a set with operations such as:
 	- <span style="color:#77c5fd">insert</span>
 	- <span style="color:#77c5fd">delete</span>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterms Exam/Assignment/Assignment 1.md",
+                "file": "Midterms Exam/Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 1"
+              "title": "Dictionary"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Midterms Exam/Refresher for Programming Concepts.md",
+                "file": "Finals Exam/Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refresher for Programming Concepts"
+              "title": "Trees"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -181,12 +182,22 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
+              "icon": "lucide-ghost",
+              "title": "code-execute-manage-executors"
+            }
+          },
+          {
+            "id": "4ddfa8e1de9b016b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,13 +217,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f2f31bc764ce6cf",
+  "active": "945f25e1d52e25e3",
   "lastOpenFiles": [
-    "Pre-Midterms Exam/Assignments/Assignment 1.md",
-    "Midterms Exam/Assignment/Assignment 1.md",
-    "Midterms Exam/Untitled.md",
-    "Midterms Exam/Assignment",
     "Midterms Exam/Dictionary.md",
+    "Finals Exam/Trees.md",
+    "Finals Exam",
+    "Midterms Exam/Untitled.md",
+    "Pre-Midterms Exam/Refresher for Programming Concepts.md",
+    "Midterms Exam/Assignment/Assignment 1.md",
+    "Midterms Exam/Media/Pasted image 20251029172421.png",
+    "Midterms Exam/Media/Pasted image 20251028192914.png",
+    "Pre-Midterms Exam/Assignments/Assignment 1.md",
+    "Midterms Exam/Assignment",
     "Midterms Exam/Media",
     "Midterms Exam/Media/Pasted image 20251029191633.png",
     "Midterms Exam/Media/Pasted image 20251029191622.png",
@@ -222,9 +238,6 @@
     "Midterms Exam/Media/Pasted image 20251029173335.png",
     "Midterms Exam/Media/Pasted image 20251029173231.png",
     "Midterms Exam/Media/Pasted image 20251029173217.png",
-    "Midterms Exam/Media/Pasted image 20251029172940.png",
-    "Midterms Exam/Media/Pasted image 20251029172851.png",
-    "Pre-Midterms Exam/Refresher for Programming Concepts.md",
     "Midterms Exam",
     "Pre-Midterms Exam/Assignments",
     "Pre-Midterms Exam/Media",
